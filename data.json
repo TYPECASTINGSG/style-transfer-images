@@ -1,0 +1,13 @@
+{
+    "styles": [
+        {"name": "trial", "url":"https://github.com/TYPECASTINGSG/style-transfer-images/raw/master/styles/trial.jpg"},
+        {"name": "goeritz", "url":"https://github.com/TYPECASTINGSG/style-transfer-images/raw/master/styles/goeritz.jpg"},
+        {"name": "la_muse", "url":"https://github.com/TYPECASTINGSG/style-transfer-images/raw/master/styles/la_muse.jpg"},
+        {"name": "flower_of_life", "url":"https://github.com/TYPECASTINGSG/style-transfer-images/raw/master/styles/flower_of_life.jpg"},
+        {"name": "asheville", "url":"https://github.com/TYPECASTINGSG/style-transfer-images/raw/master/styles/asheville.jpg"},
+        {"name": "scene_de_rue", "url":"https://github.com/TYPECASTINGSG/style-transfer-images/raw/master/styles/scene_de_rue.jpg"},
+        {"name": "woman_with_hat_matisse", "url":"https://github.com/TYPECASTINGSG/style-transfer-images/raw/master/styles/woman_with_hat_matisse.jpg"},
+        {"name": "antimonocromatismo", "url":"https://github.com/TYPECASTINGSG/style-transfer-images/raw/master/styles/antimonocromatismo.jpg"},
+        {"name": "brushstrokes", "url":"https://github.com/TYPECASTINGSG/style-transfer-images/raw/master/styles/brushstrokes.jpg"}
+    ]
+}
